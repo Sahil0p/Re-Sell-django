@@ -1,4 +1,4 @@
-# RE-SELL Online Marketplace for Re-selling
+# RE-SELL (Online Marketplace for Re-selling)
 A Django website made to place and manage items on the platform to simplify shopping.
 
 
